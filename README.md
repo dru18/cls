@@ -22,7 +22,9 @@ This script needs to have some additional packages to be installed on your syste
 
   `sudo bash install.sh`
 
-- **Done!** Now you are ready to search any file or directory using this script. Here are some examples for you.
+- **Done!** Now you are ready to use the script by calling the name of the script.
+
+  **Example:**
 
   `cls`
 
