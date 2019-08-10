@@ -34,6 +34,6 @@ This script needs to have some additional packages to be installed on your syste
 
   `sudo bash uninstall.sh`
 
-> Hit **enter** or **y** for 'Yes' if it asks you to continue to install dependencies.
+> Hit **enter** or **y** for 'Yes' if it asks you to continue to uninstall dependencies.
 
 # Good Luck. :penguin:
