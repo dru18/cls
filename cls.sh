@@ -1,3 +1,3 @@
 #!/bin/bash
 
-ls -ltF | toilet -f term --gay
+ls -lthF | toilet -f term --gay
