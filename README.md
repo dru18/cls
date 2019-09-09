@@ -29,6 +29,8 @@ This script needs to have some additional packages to be installed on your syste
   `cls`
 
   ![cls](https://github.com/dru18/cls/blob/master/screenshots/cls.png)
+  
+  `cls test/`
 
 - Run the *uninstall.sh* file to uninstall the script and it's dependencies.
 
