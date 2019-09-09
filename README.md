@@ -36,6 +36,8 @@ This script needs to have some additional packages to be installed on your syste
  
   `cls -alhF test/`
 
+  `cls test/ -lhF`
+
 - Run the *uninstall.sh* file to uninstall the script and it's dependencies.
 
   `sudo bash uninstall.sh`

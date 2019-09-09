@@ -1,0 +1,28 @@
+*****cls v1.2*****
+
+Usage: cls [ --help | --show | --version | directories]
+
+--Arguments--
+
+--help, -h -	Get all the required help to use cls.
+
+--show, -s -	Get short information about cls currently installed on your system.
+
+--version, -v -	Get release version info of cls currently installed on your system.
+
+directries -	Directories names to list using cls.
+
+
+Example:
+
+cls
+
+cls -l
+
+cls -lahF
+
+cls testdir1/ testdir2
+
+cls -lahF testdir1/ testdir2
+
+**********
