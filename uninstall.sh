@@ -2,10 +2,10 @@
 
 echo "[*] Uninstalling cls..."
 # Remove soft link 'cls' from /bin/ directory.
-sudo rm /bin/cls
+sudo rm -v /bin/cls
 
 # Remove 'cls.sh' from /usr/bin/ directory.
-sudo rm /usr/bin/cls.sh
+sudo rm -v /usr/bin/cls.sh
 
 echo -e "\n[*] Uninstalling dependencies..."
 # purge dependencies.
