@@ -30,11 +30,11 @@ This script needs to have some additional packages to be installed on your syste
 
   ![cls](https://github.com/dru18/cls/blob/master/screenshots/cls.png)
   
+  `cls -lh test/`
+
+  ![clslhd](https://github.com/dru18/cls/blob/master/screenshots/clslhd.png)
+
   `cls -l test/`
-
-  ![clsld](https://github.com/dru18/cls/blob/master/screenshots/clsld.png)
-
-  `cls test/`
  
   `cls -alh test/`
 
