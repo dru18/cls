@@ -40,6 +40,8 @@ This script needs to have some additional packages to be installed on your syste
 
   `cls test/ -lh`
 
+- For more run `cls --help`.
+
 - Run the *uninstall.sh* file to uninstall the script and it's dependencies.
 
   `sudo bash uninstall.sh`
