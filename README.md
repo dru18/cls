@@ -1,6 +1,6 @@
 # cls
 
-  ![cls.png](https://github.com/dru18/cls/blob/master/screenshots/cls.png)
+  ![cls.png](https://github.com/dru18/cls/blob/master/Screenshot/cls.png)
 
 This script needs to have some additional packages to be installed on your system to work. It will install these dependencies for you. These dependencies are,
 
@@ -28,17 +28,15 @@ This script needs to have some additional packages to be installed on your syste
 
   `cls`
 
-  ![cls](https://github.com/dru18/cls/blob/master/screenshots/cls.png)
+  ![cls](https://github.com/dru18/cls/blob/master/Screenshot/cls.png)
   
-  `cls -lh test/`
+  `cls test/`
 
-  ![clslhd](https://github.com/dru18/cls/blob/master/screenshots/clslhd.png)
+  ![clsd](https://github.com/dru18/cls/blob/master/Screenshot/clsd.png)
 
-  `cls -l test/`
- 
-  `cls -alh test/`
+  `cls -a test/`
 
-  `cls test/ -lh`
+  `cls test/ -a`
 
 - For more run `cls --help`.
 

@@ -17,12 +17,10 @@ Example:
 
 cls
 
-cls -l
+cls -a
 
-cls -lah
+cls testdir1/
 
-cls testdir1/ testdir2
-
-cls -lah testdir1/ testdir2
+cls -a testdir1/ testdir2
 
 **********
