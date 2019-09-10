@@ -19,10 +19,10 @@ cls
 
 cls -l
 
-cls -lahF
+cls -lah
 
 cls testdir1/ testdir2
 
-cls -lahF testdir1/ testdir2
+cls -lah testdir1/ testdir2
 
 **********

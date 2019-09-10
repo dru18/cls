@@ -34,9 +34,9 @@ This script needs to have some additional packages to be installed on your syste
 
   `cls test/`
  
-  `cls -alhF test/`
+  `cls -alh test/`
 
-  `cls test/ -lhF`
+  `cls test/ -lh`
 
 - Run the *uninstall.sh* file to uninstall the script and it's dependencies.
 
