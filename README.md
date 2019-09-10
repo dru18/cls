@@ -32,6 +32,8 @@ This script needs to have some additional packages to be installed on your syste
   
   `cls -l`
 
+  ![clsl](https://github.com/dru18/cls/blob/master/screenshots/clsl.png)
+
   `cls test/`
  
   `cls -alh test/`
